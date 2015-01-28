@@ -1,0 +1,28 @@
+{
+  "name": "angular-rich-clusterer",
+  "version": "1.3.0",
+  "homepage": "https://github.com/gautham1985/angular-rich-clusterer",
+  "authors": [
+    "Gautham Stalin <gauthamstalin@gmail.com>"
+  ],
+  "description": "An angular wrapper for Google Maps V3 richmarker and marker clusterer",
+  "main": "angular-rich-clusterer.js",
+  "keywords": [
+    "google",
+    "maps",
+    "v3",
+    "api",
+    "richmarker",
+    "marker",
+    "clusterer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
